@@ -1,0 +1,23 @@
+<!-- Links of JS files -->
+<script src="<?php echo base_url('assets/js/jquery.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/bootstrap.bundle.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/jquery.meanmenu.js'); ?>"></script> 
+<script src="<?php echo base_url('assets/js/owl.carousel.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/jquery.appear.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/odometer.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/jquery.magnific-popup.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/fancybox.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/tweenmax.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/ScrollMagic.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/animation.gsap.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/debug.addIndicators.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/mixitup.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/nice-select.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/tilt.jquery.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/parallax.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/jquery.ajaxchimp.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/form-validator.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/contact-form-script.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/aos.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/wow.min.js'); ?>"></script>
+<script src="<?php echo base_url('assets/js/main.js'); ?>"></script>
